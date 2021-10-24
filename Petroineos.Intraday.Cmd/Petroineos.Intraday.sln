@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Petroineos.Intraday.Cmd", "Petroineos.Intraday.Cmd.csproj", "{A708FE6B-91F9-4E08-80B7-FF3590B2E8F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petroineos.Intraday.Svc", "..\Petroineos.Intraday.Svc\Petroineos.Intraday.Svc.csproj", "{CCEFE0CD-2C13-4F48-A951-2D6ADB5ADB3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A708FE6B-91F9-4E08-80B7-FF3590B2E8F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A708FE6B-91F9-4E08-80B7-FF3590B2E8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A708FE6B-91F9-4E08-80B7-FF3590B2E8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A708FE6B-91F9-4E08-80B7-FF3590B2E8F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCEFE0CD-2C13-4F48-A951-2D6ADB5ADB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEFE0CD-2C13-4F48-A951-2D6ADB5ADB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEFE0CD-2C13-4F48-A951-2D6ADB5ADB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEFE0CD-2C13-4F48-A951-2D6ADB5ADB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF1AC2C6-3F23-41AF-BB56-2DC4899E8DE8}
+	EndGlobalSection
+EndGlobal
